@@ -1,0 +1,15 @@
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\bin\Debug\net6.0\Employee.Business.deps.json
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\bin\Debug\net6.0\Employee.Business.dll
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\bin\Debug\net6.0\Employee.Business.pdb
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\bin\Debug\net6.0\Employee.Data.dll
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\bin\Debug\net6.0\Employee.Data.pdb
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.csproj.AssemblyReference.cache
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.AssemblyInfoInputs.cache
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.AssemblyInfo.cs
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.csproj.CoreCompileInputs.cache
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.csproj.CopyComplete
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.dll
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\refint\Employee.Business.dll
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\Employee.Business.pdb
+E:\.NetCoreSession\EmployeeAPI\EmployeeAPI\Employee.Business\obj\Debug\net6.0\ref\Employee.Business.dll

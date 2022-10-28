@@ -1,0 +1,45 @@
+﻿@page
+@model EmployeeWeb.Pages.Employee.IndexModel
+@{}
+<div class="container">
+    <p>        
+        <a asp-page="/Employee/Entry">Create New</a>
+    </p>
+    <div class="row py-5">
+        <div class="col">
+            @if (@Model.EmployeeDtos == null)
+            {
+                <p>
+                    <em>Loading...</em>
+                </p>
+            }
+            else
+            {
+                <table class="table table-hover table-sm">
+                    <thead>
+                        <tr>                            
+                            <th scope="col" width="1%">EmpId</th>
+                            <th scope="col" width="1%">Name</th>
+                            <th scope="col" width="1%">Dept</th>
+                            <th scope="col" width="1%">Mobile</th>
+                            <th scope="col" width="1%">Address</th>                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var emp in @Model.EmployeeDtos)
+                        {
+                            <tr>
+                                <td>@emp.EmpId</td>
+                                <td>@emp.Name</td>
+                                <td>@emp.Dept</td>
+                                <td>@emp.Mobile</td>
+                                <td>@emp.EmpAddress</td>                                                                                               
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+           
+        </div>
+    </div>
+</div>
